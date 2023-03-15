@@ -1,0 +1,1 @@
+<button onclick="this.hidden=true">Скрыть кнопку</button>
